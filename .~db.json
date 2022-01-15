@@ -1,0 +1,207 @@
+{
+  "materials": [
+    {
+      "id": 1,
+      "materialName": "Checkers",
+      "materialPrice": 1200,
+      "imageUrl": "../../assets/checkers.jpg",
+      "extras": {
+        "overview": "loremLorem 11111 OVERVIEW ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 11111 DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 11111 SHIPPING ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 2,
+      "materialName": "Chiffon Scarves",
+      "materialPrice": 1300,
+      "imageUrl": "../../assets/chiffon_scarves.jpg",
+      "extras": {
+        "overview": "loremLorem 22222  OVERVIEW ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 222222DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 22222 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 3,
+      "materialName": "Flowered Chiffon",
+      "materialPrice": 1500,
+      "imageUrl": "../../assets/flowered_chiffon.jpg",
+      "extras": {
+        "overview": "loremLorem 33333 OVERVIEW  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 333333 DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 33333 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 4,
+      "materialName": "Flowered Crepe",
+      "materialPrice": 1600,
+      "imageUrl": "../../assets/flowered_crepe.jpg",
+      "extras": {
+        "overview": "loremLorem 44444 OVERVIEW  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 44444DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 44444 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 5,
+      "materialName": "Jersey scarves",
+      "materialPrice": 1800,
+      "imageUrl": "../../assets/jersey_scarves.jpg",
+      "extras": {
+        "overview": "loremLorem 55555  OVERVIEW ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 55555DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 55555 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 6,
+      "materialName": "Mix n' match",
+      "materialPrice": 2500,
+      "imageUrl": "../../assets/mix n match.jpg",
+      "extras": {
+        "overview": "loremLorem 66666 OVERVIEW  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 66666 DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 66666 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 7,
+      "materialName": "Nets",
+      "materialPrice": 2000,
+      "imageUrl": "../../assets/nets.jpg",
+      "extras": {
+        "overview": "loremLorem 77777 OVERVIEW  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 77777DESCRIPTION ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 777777 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    },
+    {
+      "id": 8,
+      "materialName": "Pleated scarves",
+      "materialPrice": 2350,
+      "imageUrl": "../../assets/pleated_scarves.jpg",
+      "extras": {
+        "overview": "loremLorem 8888 OVERVIEW  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "description": "Lorem 88888 ipsum DESCRIPTION dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?",
+        "shipping": "Lorem 88888 SHIPPING  ipsum dolor sit amet consectetur, adipisicing elit. non earum eos voluptatem aliquid laudantium?"
+      }
+    }
+  ],
+  "inspos": [
+    {
+      "id": 1,
+      "name": "sheriff",
+      "image": "../../assets/baba.PNG"
+    },
+    {
+      "id": 2,
+      "name": "zainab",
+      "image": "../../assets/zainab1.PNG"
+    },
+    {
+      "id": 3,
+      "name": "zainab",
+      "image": "../../assets/zainab4.png"
+    },
+    {
+      "id": 4,
+      "name": "zainab",
+      "image": "../../assets/zainab3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "joke",
+      "image": "../../assets/2.png"
+    },
+    {
+      "id": 6,
+      "name": "shalewa",
+      "image": "../../assets/3.png"
+    },
+    {
+      "id": 7,
+      "name": "zainab",
+      "image": "../../assets/4.png"
+    },
+    {
+      "id": 8,
+      "name": "joke",
+      "image": "../../assets/6.png"
+    },
+    {
+      "id": 9,
+      "name": "shalewa",
+      "image": "../../assets/7.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 8469,
+      "firstName": "mateo",
+      "surname": "kovacic",
+      "email": "kovacic@yahoo.com",
+      "password": "kkkk"
+    },
+    {
+      "id": 6644,
+      "firstName": "hammed",
+      "surname": "falana",
+      "email": "adisahammed@gmail.com",
+      "password": "phalana"
+    },
+    {
+      "id": 2241,
+      "firstName": "falana",
+      "surname": "sheriff",
+      "email": "sheriff@gmail.com",
+      "password": "sheriff"
+    },
+    {
+      "id": 4210,
+      "firstName": "falana",
+      "surname": "zainab",
+      "email": "falanazaynab@yahoo.com",
+      "password": "zaynab"
+    }
+  ],
+  "customerOrders": [
+    {},
+    {
+      "id": 391,
+      "customer": "hammed falana",
+      "quantity": "1 yards",
+      "productName": "Mix n' match",
+      "productPrice": 2500
+    },
+    {
+      "id": 9671,
+      "customer": "undefined undefined",
+      "quantity": "1 yards",
+      "productName": "Flowered Chiffon",
+      "productPrice": 1500
+    },
+    {
+      "id": 9673,
+      "customer": "undefined undefined",
+      "quantity": "1 yards",
+      "productName": "Mix n' match",
+      "productPrice": 2500
+    },
+    {
+      "id": 7841,
+      "customer": "undefined undefined",
+      "quantity": "1 yards",
+      "productName": "Mix n' match",
+      "productPrice": 2500
+    },
+    {
+      "id": 9321,
+      "customer": "undefined undefined",
+      "quantity": "1 yards",
+      "productName": "Nets",
+      "productPrice": 2000
+    }
+  ]
+}
