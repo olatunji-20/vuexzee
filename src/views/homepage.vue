@@ -86,7 +86,7 @@ h1 {
   color: hotpink;
   font-size: 40px;
   padding: 0px 20px;
-  font-family: 'Turret Road', cursive;
+  font-family: 'Kaushan Script', cursive;
 }
 h2 {
   font-size: 30px;
