@@ -13,7 +13,11 @@
       </div>
     </section>
     
-    <section class="lander">
+    <section class="new">
+      <div class="write"><p>Welcome to Zee Kollections.</p> <p>What are you buying from us today?</p></div>
+      <div class="lander">
+        
+      </div>
       <user />
     </section>
     <h1>You can get any of these and more from our store.</h1>
@@ -54,6 +58,12 @@ export default {
 * {
   box-sizing: border-box;
 }
+div {
+  margin: 0px;
+  padding: 0px;
+}
+
+
 .signboard {
   width: 100%;
   height: 20vh;
@@ -61,19 +71,38 @@ export default {
   text-align: left;
   color: white;
 }
-.lander {
-  width: 100%;
+.new {
   height: 80vh;
+  width: 100%;
+  background-color: floralwhite;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 50px;
+}
+.write {
+  padding: 30px 40px;
+  width: 400px;
+  height: 400px;
+  display: inline-block;
+  font-size: 35px;
+  color: hotpink;
+  font-family: 'Montserrat', sans-serif;
+}
+.lander {
+  width: 400px;
+  height: 400px;
   padding: 1px;
-  margin-bottom: 100px;
   background: #a6a6a622;
   background-image: url('../../public/assets/mix n match.jpg');
-  background-repeat: repeat;
-  background-size: 50vw 100%;
+  background-size: 25vw 100%;
   animation-name: backeffect;
   animation-duration: 6s;
   animation-iteration-count: infinite;
   animation-timing-function: steps(1);
+  border: 1px solid red;
+  display: inline-block;
+  border-radius: 50%;
 }
 .signboard h1 {
   font-size: 40px;
@@ -156,9 +185,23 @@ h2 {
   .signboard .nav ul li {
     font-size: 10px;
   }
+  .new {
+    flex-direction: column;
+    padding-top: 20px;
+  }
+  .write {
+    padding: 10px 20px;
+    font-size: 25px;
+    height: auto;
+    margin: 0px auto;
+    padding: 10px 20px;
+  }
   .lander {
-    background-size: 100vw 100%;
     background-repeat: no-repeat;
+    background-size: 60vw 100%;
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
   }
   h1 {
     font-size: 30px;
