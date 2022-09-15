@@ -15,9 +15,7 @@
     
     <section class="new">
       <div class="write"><p>Welcome to Zee Kollections.</p> <p>What are you buying from us today?</p></div>
-      <div class="lander">
-        
-      </div>
+      <div class="lander"></div>
       <user />
     </section>
     <h1>You can get any of these and more from our store.</h1>
@@ -187,10 +185,9 @@ h2 {
   }
   .new {
     flex-direction: column;
-    padding-top: 20px;
+    padding-top: 30px;
   }
   .write {
-    padding: 10px 20px;
     font-size: 25px;
     height: auto;
     margin: 0px auto;
