@@ -53,6 +53,10 @@ export default {
 
 
 <style scoped>
+
+  
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 * {
   box-sizing: border-box;
 }
@@ -77,6 +81,7 @@ div {
   flex-direction: row;
   justify-content: space-around;
   padding-top: 50px;
+  margin-bottom: 100px;
 }
 .write {
   padding: 30px 40px;
@@ -113,6 +118,8 @@ h1 {
   color: hotpink;
   font-size: 40px;
   padding: 0px 20px;
+  /* font-family: 'Kaushan Script', cursive; */
+  /* font-family: 'Poppins', sans-serif; */
   font-family: 'Kaushan Script', cursive;
 }
 h2 {
@@ -191,7 +198,8 @@ h2 {
     font-size: 25px;
     height: auto;
     margin: 0px auto;
-    padding: 10px 20px;
+    padding: 15px 1px;
+    width: 90%;
   }
   .lander {
     background-repeat: no-repeat;
