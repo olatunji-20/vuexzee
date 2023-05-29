@@ -1,7 +1,7 @@
 <template>
   <section>
     <div>
-      <p><i class="fi fi-copyright"></i>ZEE KOLLECTIONS, 2021</p>
+      <p><i class="fi fi-copyright"></i>ZEE KOLLECTIONS, 2023</p>
     </div>
   </section>
 </template>

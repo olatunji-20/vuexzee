@@ -135,10 +135,12 @@ li {
   font-size: 15px;
   padding: 10px 0px;
   position: relative;
+  left: 0px;
+  transition: 0.3s;
+  cursor: pointer;
 }
 li:hover {
   left: 10px;
-  transition: 0.3s;
 }
 .foot4 {
   width: 35%;
